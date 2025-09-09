@@ -19,7 +19,8 @@ This Excel project analyzes trends in the freelance workforce using pivot tables
 - Slicer-based interactivity
 - Cleaning and reshaping raw data
 
-## 📂 File Included
-- `freelance-skills-dashboard.xlsx`
+## ⬇️ Download the Excel File
+
+[Click here to download the Freelance Skills Dashboard](./freelance-skills-dashboard.xlsx)
 
 This is my second analytics portfolio project. Built while learning data analytics and strengthening Excel fluency.
